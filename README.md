@@ -12,13 +12,12 @@
 - 종료 날짜 목표 : 9월 초 ~ 중순
 - 첫 회의 : 8월 22일
 - 매주 2번 화 금 5:30
-- 총 7명 ( 김다은, 박건우, 박주연, 안혜수, 이민희, 이승희, 이종현 )
+- 총 6명 ( 김다은, 박주연, 안혜수, 이민희, 이승희, 이종현 )
 - 벌칙 : 퀴즈 제출 안하면 `사건의 지평선` 열창
 
 ## 🐨 스터디 멤버
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/mmsw1597"><img src="https://avatars.githubusercontent.com/mmsw1597" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/jonghyunlee95"><img src="https://avatars.githubusercontent.com/jonghyunlee95" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/GBAJS754"><img src="https://avatars.githubusercontent.com/GBAJS754" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/leeminhee119"><img src="https://avatars.githubusercontent.com/leeminhee119" width="130px;" alt=""></a></td>
@@ -27,7 +26,6 @@
     <td align="center"><a href="https://github.com/juyeon-park"><img src="https://avatars.githubusercontent.com/juyeon-park" width="130px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/mmsw1597"><b>박건우</b></a></td>
     <td align="center"><a href="https://github.com/jonghyunlee95"><b>이종현</b></a></td>
     <td align="center"><a href="https://github.com/GBAJS754"><b>김다은</b></a></td>
     <td align="center"><a href="https://github.com/leeminhee119"><b>이민희</b></a></td>
